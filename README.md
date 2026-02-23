@@ -109,9 +109,11 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ianman99&show_icons=true&theme=tokyonight&hide_border=true&locale=kr)](https://github.com/ianman99)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ianman99&show_icons=true&theme=tokyonight&hide_border=true&locale=kr" alt="GitHub Stats" />
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ianman99&layout=compact&theme=tokyonight&hide_border=true&locale=kr)](https://github.com/ianman99)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ianman99&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ianman99&layout=compact&theme=tokyonight&hide_border=true&locale=kr" alt="Top Languages" />
 
 </div>
 
