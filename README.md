@@ -109,17 +109,9 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ianman99&show_icons=true&theme=tokyonight&hide_border=true&locale=kr&show=prs_merged_percentage" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ianman99&show_icons=true&theme=default&hide_border=true&locale=kr&show=prs_merged_percentage" />
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ianman99&show_icons=true&theme=tokyonight&hide_border=true&locale=kr&show=prs_merged_percentage" />
-</picture>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ianman99&show_icons=true&theme=tokyonight&hide_border=true&locale=kr)](https://github.com/ianman99)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ianman99&layout=compact&theme=tokyonight&hide_border=true&locale=kr" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ianman99&layout=compact&theme=default&hide_border=true&locale=kr" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianman99&layout=compact&theme=tokyonight&hide_border=true&locale=kr" />
-</picture>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ianman99&layout=compact&theme=tokyonight&hide_border=true&locale=kr)](https://github.com/ianman99)
 
 </div>
 
