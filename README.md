@@ -56,8 +56,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ianman99&show_icons=true&theme=tokyonight&hide_border=true&locale=kr" alt="GitHub Stats" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ianman99&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
