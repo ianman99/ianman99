@@ -52,43 +52,6 @@
 
 ---
 
-## Projects
-
-> **금융 데이터 수집 ~ 자동 매매, 데이터 파이프라인 아키텍처**
-
-```
-  ┌─────────────────────── Data Collection Layer ───────────────────────┐
-  │                                                                     │
-  │  dart-fs-total ──────────► 재무제표 일괄 수집 (XBRL Bulk)                │
-  │  dart-fs-xbrl ──────────► 재무제표 실시간 모니터링 (DART API)             │
-  │  price-daily-collector ─► 일별 시세 수집 (멀티 소스)                      │
-  │  price-realtime-collector► 실시간 시세 스트리밍 (WebSocket)              │
-  │                                                                     │
-  ├─────────────────────── Strategy Layer ──────────────────────────────┤
-  │                                                                     │
-  │  quant_buyback ─────────► 자사주 매입 공시 기반 자동 매매                   │
-  │                                                                     │
-  ├─────────────────────── Storage Layer ───────────────────────────────┤
-  │                                                                     │
-  │  MySQL: price │ fin_db │ dart │ record                              │
-  │                                                                     │
-  └─────────────────────────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-| Repository | Description |
-|:---:|:---|
-| [**dart-fs-xbrl**](https://github.com/ianman99/dart-fs-xbrl) | DART 공시 모니터링 → XBRL 파싱(Arelle) → 재무제표 DB 적재 |
-| [**dart-fs-total**](https://github.com/ianman99/dart-fs-total) | DART 재무제표 일괄 다운로드 → 분류/정제 → MySQL 적재 파이프라인 |
-| [**price-daily-collector**](https://github.com/ianman99/price-daily-collector) | KRX·Yahoo·Upbit·TradingView 일별 시세 수집 (9개 테이블) |
-| [**price-realtime-collector**](https://github.com/ianman99/price-realtime-collector) | 네이버·KRX·TradingView·한경 실시간 시세 스트리밍 |
-| [**quant_buyback**](https://github.com/ianman99/quant_buyback) | 자사주 매입 공시 감지 → 한국투자증권 API 자동 매매 봇 |
-
-</div>
-
----
-
 ## GitHub Stats
 
 <div align="center">
