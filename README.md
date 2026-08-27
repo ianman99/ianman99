@@ -7,7 +7,6 @@
 <p>
   <a href="https://www.prober.kr"><img src="https://img.shields.io/badge/Website-prober.kr-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://ianman99.tistory.com"><img src="https://img.shields.io/badge/Blog-Tistory-FF5722?style=for-the-badge&logo=tistory&logoColor=white"/></a>
-  <a href="https://github.com/ianman99"><img src="https://img.shields.io/badge/GitHub-ianman99-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 </div>
